@@ -12,7 +12,9 @@
 <div align="center">
 
   <!-- Header Banner / Typist -->
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=80&lines=Hi+there,+I'm+Mohammed+Aadhil+M+👋;Software+Developer+%26+Full+Stack+Builder;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;IBM+Cognos+Analytics+%26+Data+Visualization" alt="Typing SVG" />
+  <a href="https://github.com/mohammed-aadhil-m">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=80&lines=Hi+there,+I+am+Mohammed+Aadhil+M;Software+Developer+%26+Full+Stack+Builder;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;IBM+Cognos+Analytics+%26+Data+Analytics" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <strong>📍 Tamil Nadu, India · 🎓 B.E. Computer Science & Engineering (2023 - 2027)</strong>
