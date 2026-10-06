@@ -186,8 +186,3 @@ Debug        → 🐛
 Improve      → 📈
 Collaborate  → 🤝
 Repeat       → 🔄
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mohammed-aadhil-m/mohammed-aadhil-m/output/github-contribution-grid-snake.svg" />
-
-</div>
